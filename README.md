@@ -89,5 +89,3 @@ This calculator project was developed as part of a midtest assignment for the Da
 
 Thank you for exploring the Scientific Calculator repository!
 
-Feel free to contribute to this project by adding more features or improving the code. If you encounter any issues, please open an [issue](https://github.com/your-username/scientific-calculator-cpp/issues). Pull requests are welcome!
-
