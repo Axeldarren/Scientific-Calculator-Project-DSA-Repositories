@@ -81,9 +81,6 @@ Feel free to use these equations for testing the calculator's functionalities.
 ## Contribution
 Contributions to enhance the calculator's functionalities or improve its performance are welcome. Please fork this repository, make your changes, and create a pull request. For major changes, open an issue to discuss the proposed updates beforehand.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 This calculator project was developed as part of a midtest assignment for the Data Structures and Algorithms course, demonstrating the practical application of DSA concepts in a real-world project.
 
